@@ -1,9 +1,5 @@
 # ECE461
 Group Project
 Joe's Commit
-<<<<<<< HEAD
-
+Oraefo Onwuta
 Santa's Commit
-=======
-Ore's Commit
->>>>>>> refs/remotes/origin/main
