@@ -1,20 +1,20 @@
 # ECE461
 Group Project
 Joe's Commit
-<<<<<<< HEAD
-
-Santa's Commit
-=======
 Ore's Commit
->>>>>>> refs/remotes/origin/main
-
-<<<<<<< HEAD
+Santa's Commit
 STEP4:
 Adding my name here, 
-my name is Santa, 
-this should resolve my issue.
-=======
+my name is Santa Singh, 
+I think this will resolve my issue.
+
+
 Part4: 
 Joseph Sowers
+
 Everett Gewax
->>>>>>> refs/remotes/origin/main
+
+
+Part4:
+Oraefo Onwuta
+
