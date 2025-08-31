@@ -8,7 +8,12 @@ Santa's Commit
 Ore's Commit
 >>>>>>> refs/remotes/origin/main
 
+<<<<<<< HEAD
 STEP4:
 Adding my name here, 
 my name is Santa, 
 this should resolve my issue.
+=======
+Part4: 
+Joseph Sowers
+>>>>>>> refs/remotes/origin/main
