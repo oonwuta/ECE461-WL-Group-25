@@ -12,7 +12,7 @@ Ore's Commit
 STEP4:
 Adding my name here, 
 my name is Santa Singh, 
-this should resolve my issue.
+I think this will resolve my issue.
 =======
 Part4: 
 Joseph Sowers
