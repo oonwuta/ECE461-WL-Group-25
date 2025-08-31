@@ -16,5 +16,4 @@ this should resolve my issue.
 =======
 Part4: 
 Joseph Sowers
-Everett Gewax
 >>>>>>> refs/remotes/origin/main
