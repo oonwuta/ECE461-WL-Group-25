@@ -11,8 +11,8 @@ Ore's Commit
 <<<<<<< HEAD
 STEP4:
 Adding my name here, 
-my name is Santa, 
-this should resolve my issue.
+my name is Santa Singh, 
+I think this will resolve my issue.
 =======
 Part4: 
 Joseph Sowers
