@@ -1,23 +1,4 @@
 # ECE461
-Group Project
-Joe's Commit
-Ore's Commit
-Santa's Commit
-STEP4:
-Adding my name here, 
-my name is Santa Singh, 
-I think this will resolve my issue.
+# This is a command line interface meant for interacting with LLMs via model or dataset link from HuggingFace, or codebase link from GitHub. This CLI can be used to evaluate LLMs to determine whether or not they fit criteria to be used in services/products
 
-
-Part4: 
-Joseph Sowers
-
-Everett Gewax
-
-
-Part4:
-Oraefo Onwuta
-
-Part 4:
-Michael Huang
-
+# There are several metrics used to assess each model, dataset, or codebase
