@@ -1,15 +1,22 @@
 from logger_setup import setup_logger
+from metrics import run_all_metrics
+
 
 logger = setup_logger()
 
-def run_tests():
-    test_inputs = [f"test_input_{i}" for i in range(1, 21)]
+def read_enter_delimited_file(filename):
+    with open(filename, "r", encoding="utf-8") as f:
+        data = f.read().splitlines()
+    return data
+
+def run_tests():    
+    test_inputs = read_enter_delimited_file("test_inputs.txt")
 
     for idx, input_str in enumerate(test_inputs, start=1):
         logger.info(f"Running Test {idx} with input: {input_str}")
 
         try:
-            output_dict = my_function(input_str)
+            output_dict = run_all_metrics(input_str)
 
             # Summary
             logger.info(f"Test {idx} completed successfully. Keys returned: {list(output_dict.keys())}")
